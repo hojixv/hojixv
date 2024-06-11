@@ -2,10 +2,10 @@
 
 currently learning: **C Sharp, reverse engineering.**
 
-## Lua - 3+ years experience
+## Lua - 3+ Years experience
 
 ## Python - Years experience
 
-## C++ months experience
+## C++ Months experience
 
 bypassing pos, raw, meta, hooks
