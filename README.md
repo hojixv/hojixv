@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-currently learning: **C Sharp, reverse engineering.**
+Currently learning: **C Sharp, Reverse Cngineering.**
 
 ## Lua - 3+ Years experience
 
