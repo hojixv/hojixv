@@ -7,5 +7,3 @@ Currently learning: **C Sharp, Reverse Cngineering.**
 ## Python - Years experience
 
 ## C++ - Months experience
-
-bypassing pos, raw, meta, hooks
