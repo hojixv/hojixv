@@ -6,4 +6,4 @@ Currently learning: **C Sharp, Reverse Cngineering.**
 
 ## Python - Years experience
 
-## C++ - Months experience
+## Cpp - Months experience
